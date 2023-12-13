@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-rows: ;
+    background-image: url("assets/img/Powerpoint-math-for-kids-Background-Dibuat-dengan-PosterMyWall.avif");
+}
